@@ -1,4 +1,4 @@
-# JS DEV ENVIRONMENT SETUP
+# DEV ENVIRONMENT SETUP
 
 ## System tools
 - homebrew: https://brew.sh/ | Package manager
